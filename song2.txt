@@ -1,0 +1,8 @@
+0.25 D 1 FLAT true
+0.5 D 1 FLAT false
+0.5 D 1 FLAT false
+0.25 D 1 FLAT true
+0.5 D 1 FLAT true
+0.75 D 1 FLAT false
+0.5 D 1 FLAT false
+0.5 D 1 FLAT true

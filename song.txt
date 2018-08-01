@@ -1,0 +1,10 @@
+0.5 D 1 FLAT true
+0.25 F 2 SHARP false
+0.25 A 1 NATURAL true
+0.125 A 1 SHARP true
+0.125 A 1 FLAT true
+9.0 E 4 NATURAL false
+0.125 A 1 NATURAL true
+0.125 A 1 SHARP false
+0.125 B 2 FLAT true
+0.5 E 5 NATURAL false
